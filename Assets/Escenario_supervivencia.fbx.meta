@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: fc3188db6a769cd4c938350d1017b7f6
+timeCreated: 1524150596
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: Camera
+    100004: Circle
+    100006: Cube
+    100008: Cube.001
+    100010: Cube.002
+    100012: Cube.003
+    100014: Cube.004
+    100016: Cube.005
+    100018: Cube.007
+    100020: Escenario.000
+    100022: Escenario.001
+    100024: Escenario.003
+    100026: Escenario.005
+    100028: //RootNode
+    100030: Escenario_Vigas
+    100032: Escenario_Vigas.001
+    100034: Escenario_Vigas.003
+    100036: Lamp
+    100038: Mayado_escenario
+    100040: NurbsCurve
+    100042: Plane
+    100044: Plane.001
+    100046: Plane.002
+    100048: Plane.003
+    100050: Rejillado
+    100052: Rejillado GRANDE
+    100054: "Rejillado PEQUE\xD1O.000"
+    100056: "Rejillado PEQUE\xD1O.002"
+    100058: Suelo
+    100060: SurfCircle
+    100062: SurfCircle.001
+    400000: BezierCircle
+    400002: Camera
+    400004: Circle
+    400006: Cube
+    400008: Cube.001
+    400010: Cube.002
+    400012: Cube.003
+    400014: Cube.004
+    400016: Cube.005
+    400018: Cube.007
+    400020: Escenario.000
+    400022: Escenario.001
+    400024: Escenario.003
+    400026: Escenario.005
+    400028: //RootNode
+    400030: Escenario_Vigas
+    400032: Escenario_Vigas.001
+    400034: Escenario_Vigas.003
+    400036: Lamp
+    400038: Mayado_escenario
+    400040: NurbsCurve
+    400042: Plane
+    400044: Plane.001
+    400046: Plane.002
+    400048: Plane.003
+    400050: Rejillado
+    400052: Rejillado GRANDE
+    400054: "Rejillado PEQUE\xD1O.000"
+    400056: "Rejillado PEQUE\xD1O.002"
+    400058: Suelo
+    400060: SurfCircle
+    400062: SurfCircle.001
+    2000000: Camera
+    2100000: No Name
+    2300000: BezierCircle
+    2300002: Circle
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Cube.004
+    2300014: Cube.005
+    2300016: Cube.007
+    2300018: Escenario.000
+    2300020: Escenario.001
+    2300022: Escenario.003
+    2300024: Escenario.005
+    2300026: Escenario_Vigas
+    2300028: Escenario_Vigas.001
+    2300030: Escenario_Vigas.003
+    2300032: Mayado_escenario
+    2300034: NurbsCurve
+    2300036: Plane
+    2300038: Plane.001
+    2300040: Plane.002
+    2300042: Plane.003
+    2300044: Rejillado
+    2300046: Rejillado GRANDE
+    2300048: "Rejillado PEQUE\xD1O.000"
+    2300050: "Rejillado PEQUE\xD1O.002"
+    2300052: Suelo
+    2300054: SurfCircle
+    2300056: SurfCircle.001
+    3300000: BezierCircle
+    3300002: Circle
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Cube.004
+    3300014: Cube.005
+    3300016: Cube.007
+    3300018: Escenario.000
+    3300020: Escenario.001
+    3300022: Escenario.003
+    3300024: Escenario.005
+    3300026: Escenario_Vigas
+    3300028: Escenario_Vigas.001
+    3300030: Escenario_Vigas.003
+    3300032: Mayado_escenario
+    3300034: NurbsCurve
+    3300036: Plane
+    3300038: Plane.001
+    3300040: Plane.002
+    3300042: Plane.003
+    3300044: Rejillado
+    3300046: Rejillado GRANDE
+    3300048: "Rejillado PEQUE\xD1O.000"
+    3300050: "Rejillado PEQUE\xD1O.002"
+    3300052: Suelo
+    3300054: SurfCircle
+    3300056: SurfCircle.001
+    4300000: SurfCircle.001
+    4300002: Cube.005
+    4300004: "Rejillado PEQUE\xD1O.002"
+    4300006: "Rejillado PEQUE\xD1O.000"
+    4300008: Plane.003
+    4300010: Cube.007
+    4300012: Cube.004
+    4300014: Cube.003
+    4300016: BezierCircle
+    4300018: Circle
+    4300020: Escenario_Vigas.003
+    4300022: Cube.002
+    4300024: Cube.001
+    4300026: Cube
+    4300028: SurfCircle
+    4300030: Escenario_Vigas.001
+    4300032: NurbsCurve
+    4300034: Escenario.005
+    4300036: Plane.002
+    4300038: Plane.001
+    4300040: Rejillado GRANDE
+    4300042: Rejillado
+    4300044: Mayado_escenario
+    4300046: Escenario.000
+    4300048: Escenario.003
+    4300050: Escenario.001
+    4300052: Escenario_Vigas
+    4300054: Suelo
+    4300056: Plane
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
