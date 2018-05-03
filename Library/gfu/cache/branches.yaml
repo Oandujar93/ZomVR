@@ -12,21 +12,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-05-03T12:23:12.7739697+02:00
-  initializedAtString: 2018-05-03T12:23:12.7542960+02:00
+  lastUpdatedAtString: 2018-05-03T12:44:41.4320681+02:00
+  initializedAtString: 2018-05-03T12:41:04.1875792+02:00
   localBranches:
-  - name: MainMenu
-    tracking: origin/MainMenu
   - name: master
     tracking: origin/master
+  - name: miguelangel
+    tracking: '[None]'
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/MainMenu
-    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/Oandujar93/ZomVR
+    url: https://github.com/Oandujar93/ZomVR.git
     login: 
     user: 
     host: 
@@ -34,41 +32,35 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - MainMenu
     - master
+    - miguelangel
     values:
-    - name: MainMenu
-      remote:
-        name: origin
-        url: https://github.com/Oandujar93/ZomVR
-      trackingBranch: MainMenu
     - name: master
       remote:
         name: origin
-        url: https://github.com/Oandujar93/ZomVR
+        url: https://github.com/Oandujar93/ZomVR.git
       trackingBranch: master
+    - name: miguelangel
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
-      - MainMenu
     subKeyValues:
     - Values:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/Oandujar93/ZomVR
-        trackingBranch: 
-      - name: MainMenu
-        remote:
-          name: origin
-          url: https://github.com/Oandujar93/ZomVR
+          url: https://github.com/Oandujar93/ZomVR.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/Oandujar93/ZomVR
+      url: https://github.com/Oandujar93/ZomVR.git

@@ -23,6 +23,7 @@ public class MainMenuController : MonoBehaviour {
     public void LoadSurvival()
     {
         Debug.Log("Loading Survival...");
+        SceneManager.LoadScene("survivalScene");
     }
 
     public void ShowSettings()

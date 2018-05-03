@@ -12,25 +12,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-05-03T12:21:52.9994722+02:00
-  initializedAtString: 2018-05-03T12:21:52.9994722+02:00
+  lastUpdatedAtString: 2018-05-03T12:44:46.6418539+02:00
+  initializedAtString: 2018-05-03T12:41:01.9734148+02:00
   currentGitRemote:
     name: origin
-    url: https://github.com/Oandujar93/ZomVR
+    url: https://github.com/Oandujar93/ZomVR.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: MainMenu
-    tracking: origin/MainMenu
+    name: miguelangel
+    tracking: '[None]'
   currentConfigBranch:
-    name: MainMenu
+    name: miguelangel
     remote:
-      name: origin
-      url: https://github.com/Oandujar93/ZomVR
-    trackingBranch: MainMenu
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
-    url: https://github.com/Oandujar93/ZomVR
+    url: https://github.com/Oandujar93/ZomVR.git

@@ -12,1343 +12,1565 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-05-03T12:29:32.7730754+02:00
-  initializedAtString: 2018-05-03T12:22:27.8658868+02:00
+  lastUpdatedAtString: 2018-05-03T13:33:53.6344671+02:00
+  initializedAtString: 2018-05-03T12:41:03.8775785+02:00
   entries:
   - path: .vs\ZomVR\v15\.suo
-    fullPath: D:\Escritorio\ZomVR\.vs\ZomVR\v15\.suo
+    fullPath: D:\UnityProjects\ZomVR\.vs\ZomVR\v15\.suo
     projectPath: .vs\ZomVR\v15\.suo
     originalPath: 
     status: 1
     staged: 0
   - path: .vs\ZomVR\v15\Server\sqlite3\db.lock
-    fullPath: D:\Escritorio\ZomVR\.vs\ZomVR\v15\Server\sqlite3\db.lock
+    fullPath: D:\UnityProjects\ZomVR\.vs\ZomVR\v15\Server\sqlite3\db.lock
     projectPath: .vs\ZomVR\v15\Server\sqlite3\db.lock
     originalPath: 
     status: 1
     staged: 0
   - path: .vs\ZomVR\v15\Server\sqlite3\storage.ide
-    fullPath: D:\Escritorio\ZomVR\.vs\ZomVR\v15\Server\sqlite3\storage.ide
+    fullPath: D:\UnityProjects\ZomVR\.vs\ZomVR\v15\Server\sqlite3\storage.ide
     projectPath: .vs\ZomVR\v15\Server\sqlite3\storage.ide
     originalPath: 
     status: 1
     staged: 0
   - path: .vs\ZomVR\v15\Server\sqlite3\storage.ide-shm
-    fullPath: D:\Escritorio\ZomVR\.vs\ZomVR\v15\Server\sqlite3\storage.ide-shm
+    fullPath: D:\UnityProjects\ZomVR\.vs\ZomVR\v15\Server\sqlite3\storage.ide-shm
     projectPath: .vs\ZomVR\v15\Server\sqlite3\storage.ide-shm
     originalPath: 
     status: 1
     staged: 0
   - path: .vs\ZomVR\v15\Server\sqlite3\storage.ide-wal
-    fullPath: D:\Escritorio\ZomVR\.vs\ZomVR\v15\Server\sqlite3\storage.ide-wal
+    fullPath: D:\UnityProjects\ZomVR\.vs\ZomVR\v15\Server\sqlite3\storage.ide-wal
     projectPath: .vs\ZomVR\v15\Server\sqlite3\storage.ide-wal
     originalPath: 
     status: 1
     staged: 0
-  - path: .vscode\settings.json
-    fullPath: D:\Escritorio\ZomVR\.vscode\settings.json
-    projectPath: .vscode\settings.json
+  - path: Assets\Images.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Images.meta
+    projectPath: Assets\Images.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assembly-CSharp.csproj
-    fullPath: D:\Escritorio\ZomVR\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Images\Heart.png
+    fullPath: D:\UnityProjects\ZomVR\Assets\Images\Heart.png
+    projectPath: Assets\Images\Heart.png
     originalPath: 
     status: 1
     staged: 0
-  - path: Assembly-CSharp-Editor.csproj
-    fullPath: D:\Escritorio\ZomVR\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
+  - path: Assets\Images\Heart.png.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Images\Heart.png.meta
+    projectPath: Assets\Images\Heart.png.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins.meta
-    projectPath: Assets\Plugins.meta
+  - path: Assets\Prefabs\Ascensor.fbx
+    fullPath: D:\UnityProjects\ZomVR\Assets\Prefabs\Ascensor.fbx
+    projectPath: Assets\Prefabs\Ascensor.fbx
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub.meta
-    projectPath: Assets\Plugins\GitHub.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor.meta
-    projectPath: Assets\Plugins\GitHub\Editor.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\CREDITS.txt
-    projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\EULA.txt
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\EULA.txt
-    projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\EULA.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
-    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\libsfw.bundle
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\libsfw.so
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Mono.Security.dll
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
-    originalPath: 
-    status: 1
+    status: 5
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+  - path: Assets\Prefabs\Ascensor.fbx.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Prefabs\Ascensor.fbx.meta
+    projectPath: Assets\Prefabs\Ascensor.fbx.meta
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
-    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Resources.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Resources.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Resources.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
-    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
-    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\sfw.net.dll
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\System.Threading.dll
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x64.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x64.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    originalPath: 
-    status: 1
+    status: 5
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+  - path: Assets\Prefabs\Elevator.fbx
+    fullPath: D:\UnityProjects\ZomVR\Assets\Prefabs\Elevator.fbx
+    projectPath: Assets\Prefabs\Elevator.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x86.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x86.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+  - path: Assets\Prefabs\Elevator.fbx.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Prefabs\Elevator.fbx.meta
+    projectPath: Assets\Prefabs\Elevator.fbx.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+  - path: Assets\Prefabs\ElevatorNew.fbx
+    fullPath: D:\UnityProjects\ZomVR\Assets\Prefabs\ElevatorNew.fbx
+    projectPath: Assets\Prefabs\ElevatorNew.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+  - path: Assets\Prefabs\ElevatorNew.fbx.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Prefabs\ElevatorNew.fbx.meta
+    projectPath: Assets\Prefabs\ElevatorNew.fbx.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+  - path: Assets\Prefabs\Escenario_supervivencia.fbx
+    fullPath: D:\UnityProjects\ZomVR\Assets\Prefabs\Escenario_supervivencia.fbx
+    projectPath: Assets\Prefabs\Escenario_supervivencia.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+  - path: Assets\Prefabs\Escenario_supervivencia.fbx.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Prefabs\Escenario_supervivencia.fbx.meta
+    projectPath: Assets\Prefabs\Escenario_supervivencia.fbx.meta
     originalPath: 
     status: 1
     staged: 0
   - path: Assets\Scenes\mainScene.unity
-    fullPath: D:\Escritorio\ZomVR\Assets\Scenes\mainScene.unity
+    fullPath: D:\UnityProjects\ZomVR\Assets\Scenes\mainScene.unity
     projectPath: Assets\Scenes\mainScene.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Scripts.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Scripts.meta
-    projectPath: Assets\Scripts.meta
+  - path: Assets\Scenes\NavMesh.asset
+    fullPath: D:\UnityProjects\ZomVR\Assets\Scenes\NavMesh.asset
+    projectPath: Assets\Scenes\NavMesh.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\NavMesh.asset.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Scenes\NavMesh.asset.meta
+    projectPath: Assets\Scenes\NavMesh.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\survivalScene.unity
+    fullPath: D:\UnityProjects\ZomVR\Assets\Scenes\survivalScene.unity
+    projectPath: Assets\Scenes\survivalScene.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\survivalScene.unity.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Scenes\survivalScene.unity.meta
+    projectPath: Assets\Scenes\survivalScene.unity.meta
     originalPath: 
     status: 1
     staged: 0
   - path: Assets\Scripts\MainMenuController.cs
-    fullPath: D:\Escritorio\ZomVR\Assets\Scripts\MainMenuController.cs
+    fullPath: D:\UnityProjects\ZomVR\Assets\Scripts\MainMenuController.cs
     projectPath: Assets\Scripts\MainMenuController.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\MainMenuController.cs.meta
-    fullPath: D:\Escritorio\ZomVR\Assets\Scripts\MainMenuController.cs.meta
-    projectPath: Assets\Scripts\MainMenuController.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\SteamVR\Scripts\SteamVR_Camera.cs
-    fullPath: D:\Escritorio\ZomVR\Assets\SteamVR\Scripts\SteamVR_Camera.cs
-    projectPath: Assets\SteamVR\Scripts\SteamVR_Camera.cs
     originalPath: 
     status: 3
     staged: 0
+  - path: Assets\Scripts\PlayerHealth.cs
+    fullPath: D:\UnityProjects\ZomVR\Assets\Scripts\PlayerHealth.cs
+    projectPath: Assets\Scripts\PlayerHealth.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\PlayerHealth.cs.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Scripts\PlayerHealth.cs.meta
+    projectPath: Assets\Scripts\PlayerHealth.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie.meta
+    projectPath: Assets\Zombie.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations.meta
+    projectPath: Assets\Zombie\Animations.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\attack.anim
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\attack.anim
+    projectPath: Assets\Zombie\Animations\attack.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\attack.anim.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\attack.anim.meta
+    projectPath: Assets\Zombie\Animations\attack.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\fallingback.anim
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\fallingback.anim
+    projectPath: Assets\Zombie\Animations\fallingback.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\fallingback.anim.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\fallingback.anim.meta
+    projectPath: Assets\Zombie\Animations\fallingback.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\idle.anim
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\idle.anim
+    projectPath: Assets\Zombie\Animations\idle.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\idle.anim.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\idle.anim.meta
+    projectPath: Assets\Zombie\Animations\idle.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\walk.anim
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\walk.anim
+    projectPath: Assets\Zombie\Animations\walk.anim
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\walk.anim.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\walk.anim.meta
+    projectPath: Assets\Zombie\Animations\walk.anim.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie.controller
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie.controller
+    projectPath: Assets\Zombie\Animations\Zombie.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie.controller.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie.controller.meta
+    projectPath: Assets\Zombie\Animations\Zombie.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie@attack.FBX
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie@attack.FBX
+    projectPath: Assets\Zombie\Animations\Zombie@attack.FBX
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie@attack.FBX.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie@attack.FBX.meta
+    projectPath: Assets\Zombie\Animations\Zombie@attack.FBX.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie@fallingback.FBX
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie@fallingback.FBX
+    projectPath: Assets\Zombie\Animations\Zombie@fallingback.FBX
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie@fallingback.FBX.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie@fallingback.FBX.meta
+    projectPath: Assets\Zombie\Animations\Zombie@fallingback.FBX.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie@idle.FBX
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie@idle.FBX
+    projectPath: Assets\Zombie\Animations\Zombie@idle.FBX
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie@idle.FBX.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie@idle.FBX.meta
+    projectPath: Assets\Zombie\Animations\Zombie@idle.FBX.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie@walk.FBX
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie@walk.FBX
+    projectPath: Assets\Zombie\Animations\Zombie@walk.FBX
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\Zombie@walk.FBX.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\Zombie@walk.FBX.meta
+    projectPath: Assets\Zombie\Animations\Zombie@walk.FBX.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\ZombieController.controller
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\ZombieController.controller
+    projectPath: Assets\Zombie\Animations\ZombieController.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Animations\ZombieController.controller.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Animations\ZombieController.controller.meta
+    projectPath: Assets\Zombie\Animations\ZombieController.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\demo.unity
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\demo.unity
+    projectPath: Assets\Zombie\demo.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\demo.unity.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\demo.unity.meta
+    projectPath: Assets\Zombie\demo.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Materials.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Materials.meta
+    projectPath: Assets\Zombie\Materials.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Materials\ground.mat
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Materials\ground.mat
+    projectPath: Assets\Zombie\Materials\ground.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Materials\ground.mat.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Materials\ground.mat.meta
+    projectPath: Assets\Zombie\Materials\ground.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Materials\Zombie.mat
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Materials\Zombie.mat
+    projectPath: Assets\Zombie\Materials\Zombie.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Materials\Zombie.mat.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Materials\Zombie.mat.meta
+    projectPath: Assets\Zombie\Materials\Zombie.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\ModelFBX.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\ModelFBX.meta
+    projectPath: Assets\Zombie\ModelFBX.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\ModelFBX\Zombie.FBX
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\ModelFBX\Zombie.FBX
+    projectPath: Assets\Zombie\ModelFBX\Zombie.FBX
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\ModelFBX\Zombie.FBX.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\ModelFBX\Zombie.FBX.meta
+    projectPath: Assets\Zombie\ModelFBX\Zombie.FBX.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Prefabs.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Prefabs.meta
+    projectPath: Assets\Zombie\Prefabs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Prefabs\Zombie.prefab
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Prefabs\Zombie.prefab
+    projectPath: Assets\Zombie\Prefabs\Zombie.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Prefabs\Zombie.prefab.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Prefabs\Zombie.prefab.meta
+    projectPath: Assets\Zombie\Prefabs\Zombie.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Scripts.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Scripts.meta
+    projectPath: Assets\Zombie\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Scripts\EnemyAttack.cs
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Scripts\EnemyAttack.cs
+    projectPath: Assets\Zombie\Scripts\EnemyAttack.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Scripts\EnemyAttack.cs.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Scripts\EnemyAttack.cs.meta
+    projectPath: Assets\Zombie\Scripts\EnemyAttack.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Scripts\EnemyMovement.cs
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Scripts\EnemyMovement.cs
+    projectPath: Assets\Zombie\Scripts\EnemyMovement.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Scripts\EnemyMovement.cs.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Scripts\EnemyMovement.cs.meta
+    projectPath: Assets\Zombie\Scripts\EnemyMovement.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Scripts\EnemyScript.cs
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Scripts\EnemyScript.cs
+    projectPath: Assets\Zombie\Scripts\EnemyScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Scripts\EnemyScript.cs.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Scripts\EnemyScript.cs.meta
+    projectPath: Assets\Zombie\Scripts\EnemyScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures.meta
+    projectPath: Assets\Zombie\Textures.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures\Zombie.tga
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures\Zombie.tga
+    projectPath: Assets\Zombie\Textures\Zombie.tga
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures\Zombie.tga.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures\Zombie.tga.meta
+    projectPath: Assets\Zombie\Textures\Zombie.tga.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures\Zombie_ao.png
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures\Zombie_ao.png
+    projectPath: Assets\Zombie\Textures\Zombie_ao.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures\Zombie_ao.png.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures\Zombie_ao.png.meta
+    projectPath: Assets\Zombie\Textures\Zombie_ao.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures\Zombie_nm.png
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures\Zombie_nm.png
+    projectPath: Assets\Zombie\Textures\Zombie_nm.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures\Zombie_nm.png.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures\Zombie_nm.png.meta
+    projectPath: Assets\Zombie\Textures\Zombie_nm.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures\Zombie_specular.tga
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures\Zombie_specular.tga
+    projectPath: Assets\Zombie\Textures\Zombie_specular.tga
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Zombie\Textures\Zombie_specular.tga.meta
+    fullPath: D:\UnityProjects\ZomVR\Assets\Zombie\Textures\Zombie_specular.tga.meta
+    projectPath: Assets\Zombie\Textures\Zombie_specular.tga.meta
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Library\assetDatabase3
-    fullPath: D:\Escritorio\ZomVR\Library\assetDatabase3
+    fullPath: D:\UnityProjects\ZomVR\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\CurrentLayout.dwlt
-    fullPath: D:\Escritorio\ZomVR\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
+  - path: Library\AtlasCache\1b\1b93154ece762628d8d6eb0222aa96a6
+    fullPath: D:\UnityProjects\ZomVR\Library\AtlasCache\1b\1b93154ece762628d8d6eb0222aa96a6
+    projectPath: Library\AtlasCache\1b\1b93154ece762628d8d6eb0222aa96a6
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: Library\CurrentMaximizeLayout.dwlt
-    fullPath: D:\Escritorio\ZomVR\Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\UnityProjects\ZomVR\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     status: 3
     staged: 0
   - path: Library\EditorInstance.json
-    fullPath: D:\Escritorio\ZomVR\Library\EditorInstance.json
+    fullPath: D:\UnityProjects\ZomVR\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Library\expandedItems
-    fullPath: D:\Escritorio\ZomVR\Library\expandedItems
-    projectPath: Library\expandedItems
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: D:\UnityProjects\ZomVR\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
   - path: Library\gfu\cache\branches.yaml
-    fullPath: D:\Escritorio\ZomVR\Library\gfu\cache\branches.yaml
+    fullPath: D:\UnityProjects\ZomVR\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\Escritorio\ZomVR\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: D:\Escritorio\ZomVR\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\Escritorio\ZomVR\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: D:\Escritorio\ZomVR\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: D:\Escritorio\ZomVR\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\Escritorio\ZomVR\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
-    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\13\136dc24f151211d438acee17aff4e934
-    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
-    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
-    projectPath: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
-    projectPath: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\15\151a1d946b98deb4b98445400983ba92
-    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
-    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
-    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
-    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
-    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
-    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
-    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
-    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\23\23c8bee69b591054094d32918f98facd
-    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
-    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\31\31232f1f0667f7d41b3d3a882c772bd0
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\31\31232f1f0667f7d41b3d3a882c772bd0
-    projectPath: Library\metadata\31\31232f1f0667f7d41b3d3a882c772bd0
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\31\31232f1f0667f7d41b3d3a882c772bd0.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\31\31232f1f0667f7d41b3d3a882c772bd0.info
-    projectPath: Library\metadata\31\31232f1f0667f7d41b3d3a882c772bd0.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
-    projectPath: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
-    projectPath: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
-    projectPath: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
-    projectPath: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
-    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
-    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
-    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562
-    projectPath: Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562.info
-    projectPath: Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\59\598f7cc167e65424284e573aff0f1294
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\59\598f7cc167e65424284e573aff0f1294
-    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
-    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\63\636d33ae594884e7d80b569f429d245d
-    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
-    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\67\67512d56894165b4a992580c7efc2766
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\67\67512d56894165b4a992580c7efc2766
-    projectPath: Library\metadata\67\67512d56894165b4a992580c7efc2766
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\67\67512d56894165b4a992580c7efc2766.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\67\67512d56894165b4a992580c7efc2766.info
-    projectPath: Library\metadata\67\67512d56894165b4a992580c7efc2766.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
-    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
-    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\6b\6bca9ccf900ccc84c887d783321d27e2
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\6b\6bca9ccf900ccc84c887d783321d27e2
-    projectPath: Library\metadata\6b\6bca9ccf900ccc84c887d783321d27e2
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
-    projectPath: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\UnityProjects\ZomVR\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\UnityProjects\ZomVR\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\UnityProjects\ZomVR\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\UnityProjects\ZomVR\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\UnityProjects\ZomVR\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000002000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000003000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004100000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000006100000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000007100000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\0000000000000000a000000000000000
+    projectPath: Library\metadata\00\0000000000000000a000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000a100000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000b000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\0000000000000000c000000000000000
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\05\0584839bceadb844fa31b1ca352056ba
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\05\0584839bceadb844fa31b1ca352056ba
+    projectPath: Library\metadata\05\0584839bceadb844fa31b1ca352056ba
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
-    projectPath: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+  - path: Library\metadata\05\0584839bceadb844fa31b1ca352056ba.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\05\0584839bceadb844fa31b1ca352056ba.info
+    projectPath: Library\metadata\05\0584839bceadb844fa31b1ca352056ba.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
-    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+  - path: Library\metadata\0a\0a94794f81a148d4bafc91afd8143a05
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\0a\0a94794f81a148d4bafc91afd8143a05
+    projectPath: Library\metadata\0a\0a94794f81a148d4bafc91afd8143a05
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
-    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+  - path: Library\metadata\0a\0a94794f81a148d4bafc91afd8143a05.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\0a\0a94794f81a148d4bafc91afd8143a05.info
+    projectPath: Library\metadata\0a\0a94794f81a148d4bafc91afd8143a05.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
-    projectPath: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+  - path: Library\metadata\0b\0bf82be1d570bf645af2d315dabe5660
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\0b\0bf82be1d570bf645af2d315dabe5660
+    projectPath: Library\metadata\0b\0bf82be1d570bf645af2d315dabe5660
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
-    projectPath: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+  - path: Library\metadata\0b\0bf82be1d570bf645af2d315dabe5660.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\0b\0bf82be1d570bf645af2d315dabe5660.info
+    projectPath: Library\metadata\0b\0bf82be1d570bf645af2d315dabe5660.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
-    projectPath: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+  - path: Library\metadata\11\110d686e8624db94d8f13fd7b174e99e
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\11\110d686e8624db94d8f13fd7b174e99e
+    projectPath: Library\metadata\11\110d686e8624db94d8f13fd7b174e99e
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
-    projectPath: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+  - path: Library\metadata\11\110d686e8624db94d8f13fd7b174e99e.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\11\110d686e8624db94d8f13fd7b174e99e.info
+    projectPath: Library\metadata\11\110d686e8624db94d8f13fd7b174e99e.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
-    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+  - path: Library\metadata\1d\1deae1f7338c5e84e80e873129793a01
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\1d\1deae1f7338c5e84e80e873129793a01
+    projectPath: Library\metadata\1d\1deae1f7338c5e84e80e873129793a01
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
-    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+  - path: Library\metadata\1d\1deae1f7338c5e84e80e873129793a01.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\1d\1deae1f7338c5e84e80e873129793a01.info
+    projectPath: Library\metadata\1d\1deae1f7338c5e84e80e873129793a01.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
-    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+  - path: Library\metadata\20\20319693feea5f54e92da228a2b84782
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\20\20319693feea5f54e92da228a2b84782
+    projectPath: Library\metadata\20\20319693feea5f54e92da228a2b84782
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
-    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+  - path: Library\metadata\20\20319693feea5f54e92da228a2b84782.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\20\20319693feea5f54e92da228a2b84782.info
+    projectPath: Library\metadata\20\20319693feea5f54e92da228a2b84782.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
-    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+  - path: Library\metadata\20\206426e9f646d8d41859bba180c88fe5
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\20\206426e9f646d8d41859bba180c88fe5
+    projectPath: Library\metadata\20\206426e9f646d8d41859bba180c88fe5
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
-    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+  - path: Library\metadata\20\206426e9f646d8d41859bba180c88fe5.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\20\206426e9f646d8d41859bba180c88fe5.info
+    projectPath: Library\metadata\20\206426e9f646d8d41859bba180c88fe5.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
-    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+  - path: Library\metadata\34\344b4a09bee7f4144b4cca75e332e74e
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\34\344b4a09bee7f4144b4cca75e332e74e
+    projectPath: Library\metadata\34\344b4a09bee7f4144b4cca75e332e74e
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
-    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+  - path: Library\metadata\34\344b4a09bee7f4144b4cca75e332e74e.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\34\344b4a09bee7f4144b4cca75e332e74e.info
+    projectPath: Library\metadata\34\344b4a09bee7f4144b4cca75e332e74e.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
-    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+  - path: Library\metadata\36\3664e759213d0ba4e973427bbca518ea
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\36\3664e759213d0ba4e973427bbca518ea
+    projectPath: Library\metadata\36\3664e759213d0ba4e973427bbca518ea
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
-    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+  - path: Library\metadata\36\3664e759213d0ba4e973427bbca518ea.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\36\3664e759213d0ba4e973427bbca518ea.info
+    projectPath: Library\metadata\36\3664e759213d0ba4e973427bbca518ea.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\b4\b455a70c012793a4d94fe976e18140af
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\b4\b455a70c012793a4d94fe976e18140af
-    projectPath: Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+  - path: Library\metadata\3b\3b296ef51d6300f4fa3d6a77d970ba30
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\3b\3b296ef51d6300f4fa3d6a77d970ba30
+    projectPath: Library\metadata\3b\3b296ef51d6300f4fa3d6a77d970ba30
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
-    projectPath: Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+  - path: Library\metadata\3b\3b296ef51d6300f4fa3d6a77d970ba30.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\3b\3b296ef51d6300f4fa3d6a77d970ba30.info
+    projectPath: Library\metadata\3b\3b296ef51d6300f4fa3d6a77d970ba30.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
-    projectPath: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+  - path: Library\metadata\45\45e45b860314b444cb54d9dcc45d8905
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\45\45e45b860314b444cb54d9dcc45d8905
+    projectPath: Library\metadata\45\45e45b860314b444cb54d9dcc45d8905
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
-    projectPath: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+  - path: Library\metadata\45\45e45b860314b444cb54d9dcc45d8905.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\45\45e45b860314b444cb54d9dcc45d8905.info
+    projectPath: Library\metadata\45\45e45b860314b444cb54d9dcc45d8905.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ba\ba19b22faaf4037489c4526a6efb0d94
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ba\ba19b22faaf4037489c4526a6efb0d94
-    projectPath: Library\metadata\ba\ba19b22faaf4037489c4526a6efb0d94
+  - path: Library\metadata\46\4657d9d354adf684198e4b8fc4a8d7ee.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\46\4657d9d354adf684198e4b8fc4a8d7ee.info
+    projectPath: Library\metadata\46\4657d9d354adf684198e4b8fc4a8d7ee.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\47\471de7fdd7034bd4da2799d903f653c8
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\47\471de7fdd7034bd4da2799d903f653c8
+    projectPath: Library\metadata\47\471de7fdd7034bd4da2799d903f653c8
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ba\ba19b22faaf4037489c4526a6efb0d94.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ba\ba19b22faaf4037489c4526a6efb0d94.info
-    projectPath: Library\metadata\ba\ba19b22faaf4037489c4526a6efb0d94.info
+  - path: Library\metadata\47\471de7fdd7034bd4da2799d903f653c8.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\47\471de7fdd7034bd4da2799d903f653c8.info
+    projectPath: Library\metadata\47\471de7fdd7034bd4da2799d903f653c8.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
-    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+  - path: Library\metadata\47\479c6ea636c365a4991b4935d2d6e09d
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\47\479c6ea636c365a4991b4935d2d6e09d
+    projectPath: Library\metadata\47\479c6ea636c365a4991b4935d2d6e09d
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
-    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+  - path: Library\metadata\47\479c6ea636c365a4991b4935d2d6e09d.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\47\479c6ea636c365a4991b4935d2d6e09d.info
+    projectPath: Library\metadata\47\479c6ea636c365a4991b4935d2d6e09d.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f
-    projectPath: Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f
+  - path: Library\metadata\4b\4bd180b051e2ca54ebfe82cf04ec20a6
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\4b\4bd180b051e2ca54ebfe82cf04ec20a6
+    projectPath: Library\metadata\4b\4bd180b051e2ca54ebfe82cf04ec20a6
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f.info
-    projectPath: Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f.info
+  - path: Library\metadata\4b\4bd180b051e2ca54ebfe82cf04ec20a6.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\4b\4bd180b051e2ca54ebfe82cf04ec20a6.info
+    projectPath: Library\metadata\4b\4bd180b051e2ca54ebfe82cf04ec20a6.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
-    projectPath: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+  - path: Library\metadata\4c\4cd35e3077ada7240bc06e639de46208
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\4c\4cd35e3077ada7240bc06e639de46208
+    projectPath: Library\metadata\4c\4cd35e3077ada7240bc06e639de46208
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
-    projectPath: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+  - path: Library\metadata\4c\4cd35e3077ada7240bc06e639de46208.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\4c\4cd35e3077ada7240bc06e639de46208.info
+    projectPath: Library\metadata\4c\4cd35e3077ada7240bc06e639de46208.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
-    projectPath: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+  - path: Library\metadata\51\51c2b7bc917069942a0ac4a10bcabf01
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\51\51c2b7bc917069942a0ac4a10bcabf01
+    projectPath: Library\metadata\51\51c2b7bc917069942a0ac4a10bcabf01
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
-    projectPath: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+  - path: Library\metadata\51\51c2b7bc917069942a0ac4a10bcabf01.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\51\51c2b7bc917069942a0ac4a10bcabf01.info
+    projectPath: Library\metadata\51\51c2b7bc917069942a0ac4a10bcabf01.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
-    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+  - path: Library\metadata\5e\5ec2bf00f0cd2ab4c9ad75d7339b6a3e
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\5e\5ec2bf00f0cd2ab4c9ad75d7339b6a3e
+    projectPath: Library\metadata\5e\5ec2bf00f0cd2ab4c9ad75d7339b6a3e
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
-    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+  - path: Library\metadata\5e\5ec2bf00f0cd2ab4c9ad75d7339b6a3e.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\5e\5ec2bf00f0cd2ab4c9ad75d7339b6a3e.info
+    projectPath: Library\metadata\5e\5ec2bf00f0cd2ab4c9ad75d7339b6a3e.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
-    projectPath: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+  - path: Library\metadata\68\6858abb4516aae344881bf286b3aac33.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\68\6858abb4516aae344881bf286b3aac33.info
+    projectPath: Library\metadata\68\6858abb4516aae344881bf286b3aac33.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\6e\6e9050635e37c2b4eb2df815b39a3988
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\6e\6e9050635e37c2b4eb2df815b39a3988
+    projectPath: Library\metadata\6e\6e9050635e37c2b4eb2df815b39a3988
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
-    projectPath: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+  - path: Library\metadata\6e\6e9050635e37c2b4eb2df815b39a3988.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\6e\6e9050635e37c2b4eb2df815b39a3988.info
+    projectPath: Library\metadata\6e\6e9050635e37c2b4eb2df815b39a3988.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
-    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+  - path: Library\metadata\83\836031abf90a6214e83a7d69d98065f1.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\83\836031abf90a6214e83a7d69d98065f1.info
+    projectPath: Library\metadata\83\836031abf90a6214e83a7d69d98065f1.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\84\844f152bf8843924cb04c47142c30d3c
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\84\844f152bf8843924cb04c47142c30d3c
+    projectPath: Library\metadata\84\844f152bf8843924cb04c47142c30d3c
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
-    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+  - path: Library\metadata\84\844f152bf8843924cb04c47142c30d3c.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\84\844f152bf8843924cb04c47142c30d3c.info
+    projectPath: Library\metadata\84\844f152bf8843924cb04c47142c30d3c.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
-    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+  - path: Library\metadata\85\85799956918a5b74e9f8a55a09028b3d
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\85\85799956918a5b74e9f8a55a09028b3d
+    projectPath: Library\metadata\85\85799956918a5b74e9f8a55a09028b3d
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
-    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+  - path: Library\metadata\85\85799956918a5b74e9f8a55a09028b3d.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\85\85799956918a5b74e9f8a55a09028b3d.info
+    projectPath: Library\metadata\85\85799956918a5b74e9f8a55a09028b3d.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
-    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+  - path: Library\metadata\85\859cd6c38608f7d468a0cca44e8598d7
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\85\859cd6c38608f7d468a0cca44e8598d7
+    projectPath: Library\metadata\85\859cd6c38608f7d468a0cca44e8598d7
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
-    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+  - path: Library\metadata\85\859cd6c38608f7d468a0cca44e8598d7.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\85\859cd6c38608f7d468a0cca44e8598d7.info
+    projectPath: Library\metadata\85\859cd6c38608f7d468a0cca44e8598d7.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
-    projectPath: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+  - path: Library\metadata\85\85d4be6a212540446b84623200f10550
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\85\85d4be6a212540446b84623200f10550
+    projectPath: Library\metadata\85\85d4be6a212540446b84623200f10550
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
-    projectPath: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+  - path: Library\metadata\85\85d4be6a212540446b84623200f10550.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\85\85d4be6a212540446b84623200f10550.info
+    projectPath: Library\metadata\85\85d4be6a212540446b84623200f10550.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
-    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+  - path: Library\metadata\96\966be606197166640a108ef53355eddf.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\96\966be606197166640a108ef53355eddf.info
+    projectPath: Library\metadata\96\966be606197166640a108ef53355eddf.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\9a\9a32a6cc2cb803443983d45d4a513506.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\9a\9a32a6cc2cb803443983d45d4a513506.info
+    projectPath: Library\metadata\9a\9a32a6cc2cb803443983d45d4a513506.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\9e\9e3d0eaf903780e4191e858e278bd93c
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\9e\9e3d0eaf903780e4191e858e278bd93c
+    projectPath: Library\metadata\9e\9e3d0eaf903780e4191e858e278bd93c
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\9e\9e3d0eaf903780e4191e858e278bd93c.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\9e\9e3d0eaf903780e4191e858e278bd93c.info
+    projectPath: Library\metadata\9e\9e3d0eaf903780e4191e858e278bd93c.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\metadata\a6\a6016a37d6e3cc84eb5253a692c71d18
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\a6\a6016a37d6e3cc84eb5253a692c71d18
+    projectPath: Library\metadata\a6\a6016a37d6e3cc84eb5253a692c71d18
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
-    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+  - path: Library\metadata\a6\a6016a37d6e3cc84eb5253a692c71d18.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\a6\a6016a37d6e3cc84eb5253a692c71d18.info
+    projectPath: Library\metadata\a6\a6016a37d6e3cc84eb5253a692c71d18.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
-    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+  - path: Library\metadata\ab\ab09dac4d41cd6f45b4b53e2be2102a5
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\ab\ab09dac4d41cd6f45b4b53e2be2102a5
+    projectPath: Library\metadata\ab\ab09dac4d41cd6f45b4b53e2be2102a5
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
-    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+  - path: Library\metadata\ab\ab09dac4d41cd6f45b4b53e2be2102a5.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\ab\ab09dac4d41cd6f45b4b53e2be2102a5.info
+    projectPath: Library\metadata\ab\ab09dac4d41cd6f45b4b53e2be2102a5.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
-    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+  - path: Library\metadata\b2\b25c14b5b7e73b44c92a23f817a11068
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\b2\b25c14b5b7e73b44c92a23f817a11068
+    projectPath: Library\metadata\b2\b25c14b5b7e73b44c92a23f817a11068
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
-    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+  - path: Library\metadata\b2\b25c14b5b7e73b44c92a23f817a11068.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\b2\b25c14b5b7e73b44c92a23f817a11068.info
+    projectPath: Library\metadata\b2\b25c14b5b7e73b44c92a23f817a11068.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c2\c23af809f42affb44b33f9107019bfd1
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\c2\c23af809f42affb44b33f9107019bfd1
+    projectPath: Library\metadata\c2\c23af809f42affb44b33f9107019bfd1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c2\c23af809f42affb44b33f9107019bfd1.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\c2\c23af809f42affb44b33f9107019bfd1.info
+    projectPath: Library\metadata\c2\c23af809f42affb44b33f9107019bfd1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c2\c2b134a7082ab2c4dafe91fc0a588109
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\c2\c2b134a7082ab2c4dafe91fc0a588109
+    projectPath: Library\metadata\c2\c2b134a7082ab2c4dafe91fc0a588109
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c2\c2b134a7082ab2c4dafe91fc0a588109.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\c2\c2b134a7082ab2c4dafe91fc0a588109.info
+    projectPath: Library\metadata\c2\c2b134a7082ab2c4dafe91fc0a588109.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c6\c6909ff365ebb3747a7e011514c6c29a
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\c6\c6909ff365ebb3747a7e011514c6c29a
+    projectPath: Library\metadata\c6\c6909ff365ebb3747a7e011514c6c29a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c6\c6909ff365ebb3747a7e011514c6c29a.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\c6\c6909ff365ebb3747a7e011514c6c29a.info
+    projectPath: Library\metadata\c6\c6909ff365ebb3747a7e011514c6c29a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\ca84dfa82a770a34faf2f9ddac95981e
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\ca\ca84dfa82a770a34faf2f9ddac95981e
+    projectPath: Library\metadata\ca\ca84dfa82a770a34faf2f9ddac95981e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\ca84dfa82a770a34faf2f9ddac95981e.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\ca\ca84dfa82a770a34faf2f9ddac95981e.info
+    projectPath: Library\metadata\ca\ca84dfa82a770a34faf2f9ddac95981e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d2\d2bba4174f95a8347b7945dea473bd27
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\d2\d2bba4174f95a8347b7945dea473bd27
+    projectPath: Library\metadata\d2\d2bba4174f95a8347b7945dea473bd27
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d2\d2bba4174f95a8347b7945dea473bd27.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\d2\d2bba4174f95a8347b7945dea473bd27.info
+    projectPath: Library\metadata\d2\d2bba4174f95a8347b7945dea473bd27.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\da\daad980f2698e774dbd96182485f9f6a.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\da\daad980f2698e774dbd96182485f9f6a.info
+    projectPath: Library\metadata\da\daad980f2698e774dbd96182485f9f6a.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\db\dbb1966c7d20d47428ee821b9c864228
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\db\dbb1966c7d20d47428ee821b9c864228
+    projectPath: Library\metadata\db\dbb1966c7d20d47428ee821b9c864228
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\db\dbb1966c7d20d47428ee821b9c864228.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\db\dbb1966c7d20d47428ee821b9c864228.info
+    projectPath: Library\metadata\db\dbb1966c7d20d47428ee821b9c864228.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\de\de19dbfd85ed3c34c9ba6e4ef305e533
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\de\de19dbfd85ed3c34c9ba6e4ef305e533
+    projectPath: Library\metadata\de\de19dbfd85ed3c34c9ba6e4ef305e533
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\de\de19dbfd85ed3c34c9ba6e4ef305e533.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\de\de19dbfd85ed3c34c9ba6e4ef305e533.info
+    projectPath: Library\metadata\de\de19dbfd85ed3c34c9ba6e4ef305e533.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e1\e10558744504b244599302a4ca2e3be3
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\e1\e10558744504b244599302a4ca2e3be3
+    projectPath: Library\metadata\e1\e10558744504b244599302a4ca2e3be3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e1\e10558744504b244599302a4ca2e3be3.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\e1\e10558744504b244599302a4ca2e3be3.info
+    projectPath: Library\metadata\e1\e10558744504b244599302a4ca2e3be3.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e6\e652f6c70a98693459debf408a95c512.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\e6\e652f6c70a98693459debf408a95c512.info
+    projectPath: Library\metadata\e6\e652f6c70a98693459debf408a95c512.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e7\e7ed6772552b9e4488b1398f8282ed3b
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\e7\e7ed6772552b9e4488b1398f8282ed3b
+    projectPath: Library\metadata\e7\e7ed6772552b9e4488b1398f8282ed3b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e7\e7ed6772552b9e4488b1398f8282ed3b.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\e7\e7ed6772552b9e4488b1398f8282ed3b.info
+    projectPath: Library\metadata\e7\e7ed6772552b9e4488b1398f8282ed3b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ec\ecc7cba1422701d4bb55addce6e0c24e.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\ec\ecc7cba1422701d4bb55addce6e0c24e.info
+    projectPath: Library\metadata\ec\ecc7cba1422701d4bb55addce6e0c24e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\f0\f08f19f63544cc048b4fbd8874ff2f12
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\f0\f08f19f63544cc048b4fbd8874ff2f12
+    projectPath: Library\metadata\f0\f08f19f63544cc048b4fbd8874ff2f12
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f0\f08f19f63544cc048b4fbd8874ff2f12.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\f0\f08f19f63544cc048b4fbd8874ff2f12.info
+    projectPath: Library\metadata\f0\f08f19f63544cc048b4fbd8874ff2f12.info
     originalPath: 
     status: 1
     staged: 0
   - path: Library\metadata\f1\f173f7827c1f6fb41af7cb61980dac5d
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\f1\f173f7827c1f6fb41af7cb61980dac5d
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\f1\f173f7827c1f6fb41af7cb61980dac5d
     projectPath: Library\metadata\f1\f173f7827c1f6fb41af7cb61980dac5d
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Library\metadata\f1\f173f7827c1f6fb41af7cb61980dac5d.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\f1\f173f7827c1f6fb41af7cb61980dac5d.info
-    projectPath: Library\metadata\f1\f173f7827c1f6fb41af7cb61980dac5d.info
+  - path: Library\metadata\f2\f2fb641b836122049b64b63aed664a3f
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\f2\f2fb641b836122049b64b63aed664a3f
+    projectPath: Library\metadata\f2\f2fb641b836122049b64b63aed664a3f
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
-    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+  - path: Library\metadata\f2\f2fb641b836122049b64b63aed664a3f.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\f2\f2fb641b836122049b64b63aed664a3f.info
+    projectPath: Library\metadata\f2\f2fb641b836122049b64b63aed664a3f.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
-    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+  - path: Library\metadata\f6\f6aa1297c2a4db941b3e77e46242d3f3.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\f6\f6aa1297c2a4db941b3e77e46242d3f3.info
+    projectPath: Library\metadata\f6\f6aa1297c2a4db941b3e77e46242d3f3.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\fe\fe2eb0b4e90413643a3ddc78c368140f
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\fe\fe2eb0b4e90413643a3ddc78c368140f
+    projectPath: Library\metadata\fe\fe2eb0b4e90413643a3ddc78c368140f
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+  - path: Library\metadata\fe\fe2eb0b4e90413643a3ddc78c368140f.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\fe\fe2eb0b4e90413643a3ddc78c368140f.info
+    projectPath: Library\metadata\fe\fe2eb0b4e90413643a3ddc78c368140f.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    fullPath: D:\Escritorio\ZomVR\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
-    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+  - path: Library\metadata\ff\ffac23c7e4823654eb698b93571b967d
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\ff\ffac23c7e4823654eb698b93571b967d
+    projectPath: Library\metadata\ff\ffac23c7e4823654eb698b93571b967d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ff\ffac23c7e4823654eb698b93571b967d.info
+    fullPath: D:\UnityProjects\ZomVR\Library\metadata\ff\ffac23c7e4823654eb698b93571b967d.info
+    projectPath: Library\metadata\ff\ffac23c7e4823654eb698b93571b967d.info
     originalPath: 
     status: 1
     staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\Escritorio\ZomVR\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\UnityProjects\ZomVR\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     status: 3
     staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: D:\Escritorio\ZomVR\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\UnityProjects\ZomVR\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
-    fullPath: D:\Escritorio\ZomVR\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\UnityProjects\ZomVR\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\ShaderCache\0\00b816fa466103dc26984706d7679af8.bin
-    fullPath: D:\Escritorio\ZomVR\Library\ShaderCache\0\00b816fa466103dc26984706d7679af8.bin
-    projectPath: Library\ShaderCache\0\00b816fa466103dc26984706d7679af8.bin
+  - path: Library\ShaderCache\0\0d9be9c7c5c1efded4a6f4cf5af3e0a6.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\0\0d9be9c7c5c1efded4a6f4cf5af3e0a6.bin
+    projectPath: Library\ShaderCache\0\0d9be9c7c5c1efded4a6f4cf5af3e0a6.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\0\0c5dc188511edca258b1e3eec56d5a9a.bin
-    fullPath: D:\Escritorio\ZomVR\Library\ShaderCache\0\0c5dc188511edca258b1e3eec56d5a9a.bin
-    projectPath: Library\ShaderCache\0\0c5dc188511edca258b1e3eec56d5a9a.bin
+  - path: Library\ShaderCache\1\1437da234846d8ed33f7ee02590bbb08.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\1\1437da234846d8ed33f7ee02590bbb08.bin
+    projectPath: Library\ShaderCache\1\1437da234846d8ed33f7ee02590bbb08.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\1\1475dfbcd7e6655093bf114642d0bdb0.bin
-    fullPath: D:\Escritorio\ZomVR\Library\ShaderCache\1\1475dfbcd7e6655093bf114642d0bdb0.bin
-    projectPath: Library\ShaderCache\1\1475dfbcd7e6655093bf114642d0bdb0.bin
+  - path: Library\ShaderCache\1\15175efebc5c86a11f869177e8b9389b.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\1\15175efebc5c86a11f869177e8b9389b.bin
+    projectPath: Library\ShaderCache\1\15175efebc5c86a11f869177e8b9389b.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\2\2cc144d5216a2bd8634883d700a799d1.bin
-    fullPath: D:\Escritorio\ZomVR\Library\ShaderCache\2\2cc144d5216a2bd8634883d700a799d1.bin
-    projectPath: Library\ShaderCache\2\2cc144d5216a2bd8634883d700a799d1.bin
+  - path: Library\ShaderCache\1\1733954ff971ae22957f063c378ffaeb.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\1\1733954ff971ae22957f063c378ffaeb.bin
+    projectPath: Library\ShaderCache\1\1733954ff971ae22957f063c378ffaeb.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\8\85e4b68644a2f37e9ead358a549ed86e.bin
-    fullPath: D:\Escritorio\ZomVR\Library\ShaderCache\8\85e4b68644a2f37e9ead358a549ed86e.bin
-    projectPath: Library\ShaderCache\8\85e4b68644a2f37e9ead358a549ed86e.bin
+  - path: Library\ShaderCache\1\1a54105abf9ffd2b84e32fee8b2fad0f.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\1\1a54105abf9ffd2b84e32fee8b2fad0f.bin
+    projectPath: Library\ShaderCache\1\1a54105abf9ffd2b84e32fee8b2fad0f.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\9\94c1e1a1a725645e17397e55b5eef00f.bin
-    fullPath: D:\Escritorio\ZomVR\Library\ShaderCache\9\94c1e1a1a725645e17397e55b5eef00f.bin
-    projectPath: Library\ShaderCache\9\94c1e1a1a725645e17397e55b5eef00f.bin
+  - path: Library\ShaderCache\1\1ef31d4eaa70fe01962302389348e993.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\1\1ef31d4eaa70fe01962302389348e993.bin
+    projectPath: Library\ShaderCache\1\1ef31d4eaa70fe01962302389348e993.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\9\958cbc999d2fa191aaef30556415b3b9.bin
-    fullPath: D:\Escritorio\ZomVR\Library\ShaderCache\9\958cbc999d2fa191aaef30556415b3b9.bin
-    projectPath: Library\ShaderCache\9\958cbc999d2fa191aaef30556415b3b9.bin
+  - path: Library\ShaderCache\2\2ebd866a05430949f3ccf16ce282abde.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\2\2ebd866a05430949f3ccf16ce282abde.bin
+    projectPath: Library\ShaderCache\2\2ebd866a05430949f3ccf16ce282abde.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\ShaderCache\9\95ca5fe4e11fe87802e3bbaec0d54043.bin
-    fullPath: D:\Escritorio\ZomVR\Library\ShaderCache\9\95ca5fe4e11fe87802e3bbaec0d54043.bin
-    projectPath: Library\ShaderCache\9\95ca5fe4e11fe87802e3bbaec0d54043.bin
+  - path: Library\ShaderCache\3\315318d8f2733d07ce9e71d36ba9217a.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\3\315318d8f2733d07ce9e71d36ba9217a.bin
+    projectPath: Library\ShaderCache\3\315318d8f2733d07ce9e71d36ba9217a.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: D:\Escritorio\ZomVR\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: D:\Escritorio\ZomVR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+  - path: Library\ShaderCache\3\3a5314f1fae58a89e1d5342b8b417725.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\3\3a5314f1fae58a89e1d5342b8b417725.bin
+    projectPath: Library\ShaderCache\3\3a5314f1fae58a89e1d5342b8b417725.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-    fullPath: D:\Escritorio\ZomVR\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+  - path: Library\ShaderCache\4\4afe3c70a115c9cdecb21515d7299dca.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\4\4afe3c70a115c9cdecb21515d7299dca.bin
+    projectPath: Library\ShaderCache\4\4afe3c70a115c9cdecb21515d7299dca.bin
     originalPath: 
     status: 1
     staged: 0
-  - path: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
-    fullPath: D:\Escritorio\ZomVR\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+  - path: Library\ShaderCache\6\662f096e7f6c90dd46418201167f2fbe.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\6\662f096e7f6c90dd46418201167f2fbe.bin
+    projectPath: Library\ShaderCache\6\662f096e7f6c90dd46418201167f2fbe.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\74db9a740de799f0720786757ba37e35.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\7\74db9a740de799f0720786757ba37e35.bin
+    projectPath: Library\ShaderCache\7\74db9a740de799f0720786757ba37e35.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\871943bdd10d8874f7230b81e02e64a7.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\8\871943bdd10d8874f7230b81e02e64a7.bin
+    projectPath: Library\ShaderCache\8\871943bdd10d8874f7230b81e02e64a7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8d0eb9bb21c0282a06ccda53dfc84994.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\8\8d0eb9bb21c0282a06ccda53dfc84994.bin
+    projectPath: Library\ShaderCache\8\8d0eb9bb21c0282a06ccda53dfc84994.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8f3b24f85139ad45bca172146052cc43.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\8\8f3b24f85139ad45bca172146052cc43.bin
+    projectPath: Library\ShaderCache\8\8f3b24f85139ad45bca172146052cc43.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9479f8889e18fa7e85f42e002f71d795.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\9\9479f8889e18fa7e85f42e002f71d795.bin
+    projectPath: Library\ShaderCache\9\9479f8889e18fa7e85f42e002f71d795.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9fb9be4649861e8d7376dca313d7868c.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\9\9fb9be4649861e8d7376dca313d7868c.bin
+    projectPath: Library\ShaderCache\9\9fb9be4649861e8d7376dca313d7868c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9fec185d987d274dc5f5c7cb8e9d270b.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\9\9fec185d987d274dc5f5c7cb8e9d270b.bin
+    projectPath: Library\ShaderCache\9\9fec185d987d274dc5f5c7cb8e9d270b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\ac410ca886983946132d06d3636fe7ca.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\a\ac410ca886983946132d06d3636fe7ca.bin
+    projectPath: Library\ShaderCache\a\ac410ca886983946132d06d3636fe7ca.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c105adbd56728b229dc239c53e727e64.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\c\c105adbd56728b229dc239c53e727e64.bin
+    projectPath: Library\ShaderCache\c\c105adbd56728b229dc239c53e727e64.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\cb2201d5fafb389b4930995e7a5ae34d.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\c\cb2201d5fafb389b4930995e7a5ae34d.bin
+    projectPath: Library\ShaderCache\c\cb2201d5fafb389b4930995e7a5ae34d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d13a287662ce2a41a5c85447ca18c814.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\d\d13a287662ce2a41a5c85447ca18c814.bin
+    projectPath: Library\ShaderCache\d\d13a287662ce2a41a5c85447ca18c814.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\dda389897100c38f0b5c5a419b849c29.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\d\dda389897100c38f0b5c5a419b849c29.bin
+    projectPath: Library\ShaderCache\d\dda389897100c38f0b5c5a419b849c29.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f2794b0809e8f36e2a650fbb3c0b84de.bin
+    fullPath: D:\UnityProjects\ZomVR\Library\ShaderCache\f\f2794b0809e8f36e2a650fbb3c0b84de.bin
+    projectPath: Library\ShaderCache\f\f2794b0809e8f36e2a650fbb3c0b84de.bin
     originalPath: 
     status: 1
     staged: 0
   - path: Temp\__Backupscenes\0.backup
-    fullPath: D:\Escritorio\ZomVR\Temp\__Backupscenes\0.backup
+    fullPath: D:\UnityProjects\ZomVR\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     status: 1
     staged: 0
+  - path: Temp\ProcessJobs\00000000000000000000000000000000.bakeres
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\00000000000000000000000000000000.bakeres
+    projectPath: Temp\ProcessJobs\00000000000000000000000000000000.bakeres
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\43b36042071675b3aa19e76da2fa9b26.bakeup
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\43b36042071675b3aa19e76da2fa9b26.bakeup
+    projectPath: Temp\ProcessJobs\43b36042071675b3aa19e76da2fa9b26.bakeup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\492af40588a44cb701f8803b34529b8f.bakeindir
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\492af40588a44cb701f8803b34529b8f.bakeindir
+    projectPath: Temp\ProcessJobs\492af40588a44cb701f8803b34529b8f.bakeindir
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\5b2d870849063a43e4fe579152c4905c.bakeres
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\5b2d870849063a43e4fe579152c4905c.bakeres
+    projectPath: Temp\ProcessJobs\5b2d870849063a43e4fe579152c4905c.bakeres
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\6b4ab99d7e82b86edb1110a474c0deda.bakeres
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\6b4ab99d7e82b86edb1110a474c0deda.bakeres
+    projectPath: Temp\ProcessJobs\6b4ab99d7e82b86edb1110a474c0deda.bakeres
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.clust
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.clust
+    projectPath: Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.lt
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.lt
+    projectPath: Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.vis
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.vis
+    projectPath: Temp\ProcessJobs\92439a07f84d0f91fd444a7cad3d517c.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\c26c9fcf32136d8b727a3d8f8df46df1.bakert
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\c26c9fcf32136d8b727a3d8f8df46df1.bakert
+    projectPath: Temp\ProcessJobs\c26c9fcf32136d8b727a3d8f8df46df1.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\d1bcb4ac62ee9b7968f74971d21e4307.bakeup
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\d1bcb4ac62ee9b7968f74971d21e4307.bakeup
+    projectPath: Temp\ProcessJobs\d1bcb4ac62ee9b7968f74971d21e4307.bakeup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\d34d984a8ea43734691b481af4fd54b9.bakevb
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\d34d984a8ea43734691b481af4fd54b9.bakevb
+    projectPath: Temp\ProcessJobs\d34d984a8ea43734691b481af4fd54b9.bakevb
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: D:\Escritorio\ZomVR\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
     status: 1
     staged: 0
+  - path: Temp\ProcessJobs\ee28f9d386866ab1f5bfce906526187d.bakevb
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\ee28f9d386866ab1f5bfce906526187d.bakevb
+    projectPath: Temp\ProcessJobs\ee28f9d386866ab1f5bfce906526187d.bakevb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.clust
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.clust
+    projectPath: Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.lt
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.lt
+    projectPath: Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.vis
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.vis
+    projectPath: Temp\ProcessJobs\f0fb4659a0d918fa71c4b0e647e65ca5.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.clust
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.clust
+    projectPath: Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.clust
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.lt
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.lt
+    projectPath: Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.lt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.vis
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.vis
+    projectPath: Temp\ProcessJobs\f220b7a03016e109670cb7e6e40d7d10.vis
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f43a98fc1a65add0806ec83695a0c22a.bakeindir
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\f43a98fc1a65add0806ec83695a0c22a.bakeindir
+    projectPath: Temp\ProcessJobs\f43a98fc1a65add0806ec83695a0c22a.bakeindir
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\ProcessJobs\f7663b6954bd1252e0fd2336487cbb61.bakert
+    fullPath: D:\UnityProjects\ZomVR\Temp\ProcessJobs\f7663b6954bd1252e0fd2336487cbb61.bakert
+    projectPath: Temp\ProcessJobs\f7663b6954bd1252e0fd2336487cbb61.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\TarGZ\archtemp.tar
+    fullPath: D:\UnityProjects\ZomVR\Temp\TarGZ\archtemp.tar
+    projectPath: Temp\TarGZ\archtemp.tar
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Temp\UnityLockfile
-    fullPath: D:\Escritorio\ZomVR\Temp\UnityLockfile
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-05e87bf0e9a46fb46b790f2a625181ab
-    fullPath: D:\Escritorio\ZomVR\Temp\UnityTempFile-05e87bf0e9a46fb46b790f2a625181ab
-    projectPath: Temp\UnityTempFile-05e87bf0e9a46fb46b790f2a625181ab
+  - path: Temp\UnityTempFile-033644563b2fc584ba77b8ff2945dc76
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-033644563b2fc584ba77b8ff2945dc76
+    projectPath: Temp\UnityTempFile-033644563b2fc584ba77b8ff2945dc76
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-e24c74ec6f61f1e41830d9c4df0b6bce
-    fullPath: D:\Escritorio\ZomVR\Temp\UnityTempFile-e24c74ec6f61f1e41830d9c4df0b6bce
-    projectPath: Temp\UnityTempFile-e24c74ec6f61f1e41830d9c4df0b6bce
+  - path: Temp\UnityTempFile-094809934094e9f4faa18d6bcbac0b9d
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-094809934094e9f4faa18d6bcbac0b9d
+    projectPath: Temp\UnityTempFile-094809934094e9f4faa18d6bcbac0b9d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-11f88d7f59ddd5f4bb4eb78e5c0fc5fd
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-11f88d7f59ddd5f4bb4eb78e5c0fc5fd
+    projectPath: Temp\UnityTempFile-11f88d7f59ddd5f4bb4eb78e5c0fc5fd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1f16d605038bbe94080adf97308f8273
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-1f16d605038bbe94080adf97308f8273
+    projectPath: Temp\UnityTempFile-1f16d605038bbe94080adf97308f8273
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-396d8427caf900c44b15bdb6c662622a
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-396d8427caf900c44b15bdb6c662622a
+    projectPath: Temp\UnityTempFile-396d8427caf900c44b15bdb6c662622a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3e2db249097fd9d4ebecc1ab6da68752
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-3e2db249097fd9d4ebecc1ab6da68752
+    projectPath: Temp\UnityTempFile-3e2db249097fd9d4ebecc1ab6da68752
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-44331e2c63c821948ad40009434519a4
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-44331e2c63c821948ad40009434519a4
+    projectPath: Temp\UnityTempFile-44331e2c63c821948ad40009434519a4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-55e62cde04743cd4c811d5c03e37b6c1
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-55e62cde04743cd4c811d5c03e37b6c1
+    projectPath: Temp\UnityTempFile-55e62cde04743cd4c811d5c03e37b6c1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-84436fd9d43fba442acfa1d1a15ffa9d
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-84436fd9d43fba442acfa1d1a15ffa9d
+    projectPath: Temp\UnityTempFile-84436fd9d43fba442acfa1d1a15ffa9d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-91459fc65c99c0e479b32de5148b168f
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-91459fc65c99c0e479b32de5148b168f
+    projectPath: Temp\UnityTempFile-91459fc65c99c0e479b32de5148b168f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e1638d35ca64c2d4180ec31f5a7798e9
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-e1638d35ca64c2d4180ec31f5a7798e9
+    projectPath: Temp\UnityTempFile-e1638d35ca64c2d4180ec31f5a7798e9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e3f6f499da2cb7a42b77a5139a2c8665
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityTempFile-e3f6f499da2cb7a42b77a5139a2c8665
+    projectPath: Temp\UnityTempFile-e3f6f499da2cb7a42b77a5139a2c8665
     originalPath: 
     status: 1
     staged: 0
   - path: Temp\UnityVS_obj\Debug\ZomVR.csproj.CoreCompileInputs.cache
-    fullPath: D:\Escritorio\ZomVR\Temp\UnityVS_obj\Debug\ZomVR.csproj.CoreCompileInputs.cache
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityVS_obj\Debug\ZomVR.csproj.CoreCompileInputs.cache
     projectPath: Temp\UnityVS_obj\Debug\ZomVR.csproj.CoreCompileInputs.cache
     originalPath: 
     status: 1
     staged: 0
   - path: Temp\UnityVS_obj\Debug\ZomVR.csprojResolveAssemblyReference.cache
-    fullPath: D:\Escritorio\ZomVR\Temp\UnityVS_obj\Debug\ZomVR.csprojResolveAssemblyReference.cache
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityVS_obj\Debug\ZomVR.csprojResolveAssemblyReference.cache
     projectPath: Temp\UnityVS_obj\Debug\ZomVR.csprojResolveAssemblyReference.cache
     originalPath: 
     status: 1
     staged: 0
   - path: Temp\UnityVS_obj\Debug\ZomVR.Editor.csproj.CoreCompileInputs.cache
-    fullPath: D:\Escritorio\ZomVR\Temp\UnityVS_obj\Debug\ZomVR.Editor.csproj.CoreCompileInputs.cache
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityVS_obj\Debug\ZomVR.Editor.csproj.CoreCompileInputs.cache
     projectPath: Temp\UnityVS_obj\Debug\ZomVR.Editor.csproj.CoreCompileInputs.cache
     originalPath: 
     status: 1
     staged: 0
   - path: Temp\UnityVS_obj\Debug\ZomVR.Editor.csprojResolveAssemblyReference.cache
-    fullPath: D:\Escritorio\ZomVR\Temp\UnityVS_obj\Debug\ZomVR.Editor.csprojResolveAssemblyReference.cache
+    fullPath: D:\UnityProjects\ZomVR\Temp\UnityVS_obj\Debug\ZomVR.Editor.csprojResolveAssemblyReference.cache
     projectPath: Temp\UnityVS_obj\Debug\ZomVR.Editor.csprojResolveAssemblyReference.cache
     originalPath: 
     status: 1
     staged: 0
   - path: ZomVR.csproj
-    fullPath: D:\Escritorio\ZomVR\ZomVR.csproj
+    fullPath: D:\UnityProjects\ZomVR\ZomVR.csproj
     projectPath: ZomVR.csproj
     originalPath: 
     status: 1
     staged: 0
   - path: ZomVR.Editor.csproj
-    fullPath: D:\Escritorio\ZomVR\ZomVR.Editor.csproj
+    fullPath: D:\UnityProjects\ZomVR\ZomVR.Editor.csproj
     projectPath: ZomVR.Editor.csproj
     originalPath: 
     status: 1
     staged: 0
   - path: ZomVR.sln
-    fullPath: D:\Escritorio\ZomVR\ZomVR.sln
+    fullPath: D:\UnityProjects\ZomVR\ZomVR.sln
     projectPath: ZomVR.sln
     originalPath: 
     status: 1
