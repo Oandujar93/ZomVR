@@ -8,6 +8,7 @@ using UnityEngine;
 using System.Collections;
 using System.Reflection;
 using Valve.VR;
+using System;
 
 [RequireComponent(typeof(Camera))]
 public class SteamVR_Camera : MonoBehaviour
@@ -52,7 +53,12 @@ public class SteamVR_Camera : MonoBehaviour
 		{
 			if (head != null)
 			{
-				head.GetComponent<SteamVR_TrackedObject>().enabled = false;
+				try
+				{
+					head.GetComponent<SteamVR_TrackedObject>().enabled = false;
+				}
+				catch(Exception)
+				{ }
 			}
 
 			enabled = false;
