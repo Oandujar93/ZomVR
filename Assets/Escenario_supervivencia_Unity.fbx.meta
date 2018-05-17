@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 054302aff146a7f439e67697b6ed6f0b
+timeCreated: 1525963057
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCircle.001
+    100004: Bidon 1
+    100006: Bidon 2
+    100008: Bidon 3
+    100010: Camera
+    100012: Circle
+    100014: Circle.001
+    100016: Circle.002
+    100018: Cube
+    100020: Cube.001
+    100022: Cube.002
+    100024: Cube.003
+    100026: Cube.004
+    100028: Cube.005
+    100030: Cube.006
+    100032: Cube.007
+    100034: Cube.008
+    100036: Cube.009
+    100038: Cube.010
+    100040: Cube.011
+    100042: Cube.012
+    100044: Cube.013
+    100046: Cylinder
+    100048: Cylinder.001
+    100050: Cylinder.003
+    100052: Cylinder.004
+    100054: //RootNode
+    100056: Escenario_Vigas
+    100058: Escenario_Vigas.003
+    100060: Lamp
+    100062: Lamp.001
+    100064: Lamp.002
+    100066: Lamp.003
+    100068: Lamp.004
+    100070: Lamp.005
+    100072: Lamp.006
+    100074: Lamp.007
+    100076: Lamp.008
+    100078: Lamp.009
+    100080: Lamp.010
+    100082: Lamp.011
+    100084: Mayado_escenario
+    100086: NurbsCurve
+    100088: Pared_izq.000
+    100090: Pared_izq.001
+    100092: Pared_izq.002
+    100094: Pared_izq.003
+    100096: Pared_izq.004
+    100098: Paredes
+    100100: Plane
+    100102: Plane.003
+    100104: Plane.004
+    100106: Point
+    100108: Point.001
+    100110: Point.002
+    100112: Puertas_nave
+    100114: Spot
+    100116: Suelo
+    100118: Suelo.002
+    100120: SurfCircle
+    100122: SurfCircle.001
+    100124: SurfCircle.002
+    100126: SurfCircle.003
+    400000: BezierCircle
+    400002: BezierCircle.001
+    400004: Bidon 1
+    400006: Bidon 2
+    400008: Bidon 3
+    400010: Camera
+    400012: Circle
+    400014: Circle.001
+    400016: Circle.002
+    400018: Cube
+    400020: Cube.001
+    400022: Cube.002
+    400024: Cube.003
+    400026: Cube.004
+    400028: Cube.005
+    400030: Cube.006
+    400032: Cube.007
+    400034: Cube.008
+    400036: Cube.009
+    400038: Cube.010
+    400040: Cube.011
+    400042: Cube.012
+    400044: Cube.013
+    400046: Cylinder
+    400048: Cylinder.001
+    400050: Cylinder.003
+    400052: Cylinder.004
+    400054: //RootNode
+    400056: Escenario_Vigas
+    400058: Escenario_Vigas.003
+    400060: Lamp
+    400062: Lamp.001
+    400064: Lamp.002
+    400066: Lamp.003
+    400068: Lamp.004
+    400070: Lamp.005
+    400072: Lamp.006
+    400074: Lamp.007
+    400076: Lamp.008
+    400078: Lamp.009
+    400080: Lamp.010
+    400082: Lamp.011
+    400084: Mayado_escenario
+    400086: NurbsCurve
+    400088: Pared_izq.000
+    400090: Pared_izq.001
+    400092: Pared_izq.002
+    400094: Pared_izq.003
+    400096: Pared_izq.004
+    400098: Paredes
+    400100: Plane
+    400102: Plane.003
+    400104: Plane.004
+    400106: Point
+    400108: Point.001
+    400110: Point.002
+    400112: Puertas_nave
+    400114: Spot
+    400116: Suelo
+    400118: Suelo.002
+    400120: SurfCircle
+    400122: SurfCircle.001
+    400124: SurfCircle.002
+    400126: SurfCircle.003
+    2000000: Camera
+    2100000: Material.003
+    2100002: Bidon Verde
+    2100004: Blanco vidones
+    2100006: Bidon Rojo
+    2100008: Bidon Naranja
+    2100010: Rojo_metal
+    2100012: Metal_Rejillado
+    2100014: Metal
+    2100016: Material.004
+    2100018: Azul_manta
+    2100020: Material
+    2100022: Luz_emmiter
+    2100024: Suelo
+    2100026: Blanco_ascensor
+    2100028: Material.001
+    2100030: Material.002
+    2100032: No Name
+    2100034: Metal_Rojo_Rejillado
+    2100036: Amarillo_Edificio
+    2300000: BezierCircle
+    2300002: BezierCircle.001
+    2300004: Bidon 1
+    2300006: Bidon 2
+    2300008: Bidon 3
+    2300010: Circle
+    2300012: Circle.001
+    2300014: Circle.002
+    2300016: Cube
+    2300018: Cube.001
+    2300020: Cube.002
+    2300022: Cube.003
+    2300024: Cube.004
+    2300026: Cube.005
+    2300028: Cube.006
+    2300030: Cube.007
+    2300032: Cube.008
+    2300034: Cube.009
+    2300036: Cube.010
+    2300038: Cube.011
+    2300040: Cube.012
+    2300042: Cube.013
+    2300044: Cylinder
+    2300046: Cylinder.001
+    2300048: Cylinder.003
+    2300050: Cylinder.004
+    2300052: Escenario_Vigas
+    2300054: Escenario_Vigas.003
+    2300056: Mayado_escenario
+    2300058: NurbsCurve
+    2300060: Pared_izq.000
+    2300062: Pared_izq.001
+    2300064: Pared_izq.002
+    2300066: Pared_izq.003
+    2300068: Pared_izq.004
+    2300070: Paredes
+    2300072: Plane
+    2300074: Plane.003
+    2300076: Plane.004
+    2300078: Puertas_nave
+    2300080: Suelo
+    2300082: Suelo.002
+    2300084: SurfCircle
+    2300086: SurfCircle.001
+    2300088: SurfCircle.002
+    2300090: SurfCircle.003
+    3300000: BezierCircle
+    3300002: BezierCircle.001
+    3300004: Bidon 1
+    3300006: Bidon 2
+    3300008: Bidon 3
+    3300010: Circle
+    3300012: Circle.001
+    3300014: Circle.002
+    3300016: Cube
+    3300018: Cube.001
+    3300020: Cube.002
+    3300022: Cube.003
+    3300024: Cube.004
+    3300026: Cube.005
+    3300028: Cube.006
+    3300030: Cube.007
+    3300032: Cube.008
+    3300034: Cube.009
+    3300036: Cube.010
+    3300038: Cube.011
+    3300040: Cube.012
+    3300042: Cube.013
+    3300044: Cylinder
+    3300046: Cylinder.001
+    3300048: Cylinder.003
+    3300050: Cylinder.004
+    3300052: Escenario_Vigas
+    3300054: Escenario_Vigas.003
+    3300056: Mayado_escenario
+    3300058: NurbsCurve
+    3300060: Pared_izq.000
+    3300062: Pared_izq.001
+    3300064: Pared_izq.002
+    3300066: Pared_izq.003
+    3300068: Pared_izq.004
+    3300070: Paredes
+    3300072: Plane
+    3300074: Plane.003
+    3300076: Plane.004
+    3300078: Puertas_nave
+    3300080: Suelo
+    3300082: Suelo.002
+    3300084: SurfCircle
+    3300086: SurfCircle.001
+    3300088: SurfCircle.002
+    3300090: SurfCircle.003
+    4300000: Pared_izq.004
+    4300002: Pared_izq.003
+    4300004: Pared_izq.002
+    4300006: Pared_izq.001
+    4300008: Bidon 1
+    4300010: Bidon 3
+    4300012: Bidon 2
+    4300014: BezierCircle.001
+    4300016: Cube.013
+    4300018: Cylinder.004
+    4300020: Cylinder.003
+    4300022: Cube.012
+    4300024: Cube.011
+    4300026: Cylinder.001
+    4300028: Pared_izq.000
+    4300030: Cube.010
+    4300032: Cube.009
+    4300034: Cube.008
+    4300036: Plane
+    4300038: Circle.002
+    4300040: Circle.001
+    4300042: Puertas_nave
+    4300044: Suelo.002
+    4300046: Cube.003
+    4300048: Paredes
+    4300050: Cylinder
+    4300052: Cube.006
+    4300054: Plane.004
+    4300056: SurfCircle.003
+    4300058: SurfCircle.002
+    4300060: SurfCircle.001
+    4300062: Cube.005
+    4300064: Plane.003
+    4300066: Cube.007
+    4300068: Cube.004
+    4300070: BezierCircle
+    4300072: Circle
+    4300074: Escenario_Vigas.003
+    4300076: Cube.002
+    4300078: Cube.001
+    4300080: Cube
+    4300082: SurfCircle
+    4300084: NurbsCurve
+    4300086: Mayado_escenario
+    4300088: Escenario_Vigas
+    4300090: Suelo
+    10800000: Lamp
+    10800002: Lamp.001
+    10800004: Lamp.002
+    10800006: Lamp.003
+    10800008: Lamp.004
+    10800010: Lamp.005
+    10800012: Lamp.006
+    10800014: Lamp.007
+    10800016: Lamp.008
+    10800018: Lamp.009
+    10800020: Lamp.010
+    10800022: Lamp.011
+    10800024: Point
+    10800026: Point.001
+    10800028: Point.002
+    10800030: Spot
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
